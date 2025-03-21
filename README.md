@@ -7,7 +7,7 @@
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
     <p>
-        <a href="https://github.com/DanielDod"><img title="Author"    src="https://img.shields.io/badge/Author-Daniel-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/Braan7"><img title="Author"    src="https://img.shields.io/badge/Author-Daniel-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
 ---------  
         
@@ -118,7 +118,7 @@ npm start
 
 - Si tiene algún problema la bot contactame ฅ^•ﻌ•^ฅ
 
-* <a href="https://wa.me/51955918117"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/525648804810"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ---------
 
@@ -127,7 +127,7 @@ npm start
 
 - Grupo Oficial Del Bot
 
-* <a href="https://chat.whatsapp.com/DXWl89Pkczz8PTDXCIdCnS"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/C3MSCYJGto35basvfUPR0X"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ---------
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
