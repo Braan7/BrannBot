@@ -5,7 +5,7 @@ let handler  = async (m, { conn, usedPrefix, command }) => {
 let grupos = `𝘛𝘦 𝘪𝘯𝘷𝘪𝘵𝘢𝘮𝘰𝘴 𝘢 𝘯𝘶𝘦𝘴𝘵𝘳𝘰𝘴 𝘨𝘳𝘶𝘱𝘰𝘴 𝘰𝘧𝘪𝘤𝘪𝘢𝘭𝘦𝘴
 𝙱𝚁𝙰𝙰𝙽 𝙱𝙾𝚃 🥷🏼
 
-💞 https://chat.whatsapp.com/DXWl89Pkczz8PTDXCIdCnS
+💞 https://chat.whatsapp.com/HNeUqLXQSXoLkb5qDHsP46
 
  💞 Enlace anulado? entre aquí! 
 
