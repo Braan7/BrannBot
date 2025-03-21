@@ -66,7 +66,7 @@ global.avatar = fs.readFileSync('./src/img/avatar_contact.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/DXWl89Pkczz8PTDXCIdCnS'
+global.grupo = 'https://chat.whatsapp.com/HNeUqLXQSXoLkb5qDHsP46'
 global.channel = 'https://whatsapp.com/channel/0029Vb4tpfK1t90gCaPxv90A'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb4tpfK1t90gCaPxv90A'
 global.md = 'https://panel.skyultraplus.com' 
